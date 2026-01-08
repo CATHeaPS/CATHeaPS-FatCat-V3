@@ -1,3 +1,5 @@
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/0b48bba6-7e16-47b2-9500-cb45ee62a030" /> 
+
 # CATHeaPS
 **C**entralisation **A**nalysis **T**ool for **Hea**t **P**ump **S**ystems.
 
