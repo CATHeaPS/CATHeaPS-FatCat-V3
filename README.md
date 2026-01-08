@@ -1,10 +1,11 @@
 
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/0b48bba6-7e16-47b2-9500-cb45ee62a030" /> 
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/0b48bba6-7e16-47b2-9500-cb45ee62a030" /> <img width="300" height="168.6" alt="GALLANT Logo (Primary)" src="https://github.com/user-attachments/assets/1a287b6e-83aa-4057-a0a7-ee156ddaef52" />
+
 
 # CATHeaPS
 **C**entralisation **A**nalysis **T**ool for **Hea**t **P**ump **S**ystems.
 
-This repository contains **CATHeaPS-FatCat** (CATHeaPS v3), which represents the mature evolution of the **CATHeaPS-Kitten** (v1/2) framework, adding robust modules for integrating openly accessible Energy Performance Certificate (EPC) to provide stakeholders with preliminary insights into the direct impacts of property retrofitting. CATHeaPS is an open-access modeling tool designed to assess the techno-environmental-economic impacts of decarbonising thermal systems. Developed through a collaboration between the **University of Glasgow** and the **University of Edinburgh**, the tool empowers local councils, community energy groups, and stakeholders to evaluate heat network feasibility and retrofit strategies using publicly available data.
+This repository contains **CATHeaPS-FatCat** (CATHeaPS v3), which represents the mature evolution of the **CATHeaPS-Kitten** (v1/2) framework, adding robust modules for integrating openly accessible Energy Performance Certificate (EPC) data to provide stakeholders with preliminary insights into the direct impacts of property retrofitting. CATHeaPS is an open-access modeling tool designed to assess the techno-environmental-economic impacts of decarbonising thermal systems. Developed through a collaboration between the **University of Glasgow** and the **University of Edinburgh**, the tool empowers local councils, community energy groups, and stakeholders to evaluate heat network feasibility and retrofit strategies using publicly available data.
 
 ## Model overview
 
