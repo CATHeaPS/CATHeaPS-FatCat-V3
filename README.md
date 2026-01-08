@@ -1,5 +1,5 @@
 
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/0b48bba6-7e16-47b2-9500-cb45ee62a030" /> <img width="300" height="168.6" alt="GALLANT Logo (Primary)" src="https://github.com/user-attachments/assets/1a287b6e-83aa-4057-a0a7-ee156ddaef52" />
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/0b48bba6-7e16-47b2-9500-cb45ee62a030" /> <img width="390" height="219.18" alt="GALLANT Logo (Primary)" src="https://github.com/user-attachments/assets/1a287b6e-83aa-4057-a0a7-ee156ddaef52" />
 
 
 # CATHeaPS
@@ -14,6 +14,13 @@ This project enhanced the original CATHeaPS framework to evaluate how retrofitti
 - **Ambient Networks:** Decentralised booster heat pumps integrated into a shared ambient temperature network with a centralised balancing unit.
 - **Individual Air Source Heat Pumps (ASHP):** Standalone property-level ASHPs with calorifiers for residential properties.
 - **Conventional Gas Boilers:** Used as a baseline for techno-economic comparison.
+
+## Key updates in this version
+
+CATHeaPS-FatCat is a mature evolution of CATHeaPS-Kitten. The main updates in **FatCAT** include:
+- **Retrofit analysis:** a comparison of heat decarbonisation scenarios pre and post building retrofit.
+- **Incorporation of EPC data:** ability to incorporate open access EPC data, improving ease of application across Scotland and the UK.
+- **Non-linear heat networking routing:** improved networking routing for heat network scenarios.
 
 ## Key Features & Outputs
 
@@ -41,7 +48,7 @@ By lowering the barrier to entry for complex thermal modeling, CATHeaPS facilita
 CATHeaPS is a **Macro enabled workbook** developed on Microsoft Excel.
 
 ## Aknowledgements
-CATHeaPS-FatCat is developed by Orestis Angelidis and Nicola Tait with the support of Daniel Friedrich and Gioia Falcone. The project was part of a collaboration between Glasgow as a Living Lab Accelerating Novel Transformation (**GALLANT**) and The Centre for Net Zero High Density Buildings (**CeNZ High-DB**). GALLANT is funded by the Natural Environment Research Council as part of the Changing the Environment Programme [grant number NE/W005042/1].
+CATHeaPS-FatCat is developed by Orestis Angelidis and Nicola Tait with the support of Daniel Friedrich and Gioia Falcone. The project was part of a collaboration between Glasgow as a Living Lab Accelerating Novel Transformation (**GALLANT**) and The Centre for Net Zero High Density Buildings (**CeNZ High-DB**). GALLANT is funded by the Natural Environment Research Council as part of the Changing the Environment Programme [grant number NE/W005042/1]. CeNZ High-DB is a Green Economy Centre funded by UKRI [grant number 2-UOG-018].
 <div align="center">
   <img width="370" height="280" alt="CATHeaPS " src="https://github.com/user-attachments/assets/f41cc3d1-6042-4325-94de-b1cb9132cb73" />
 </div>
