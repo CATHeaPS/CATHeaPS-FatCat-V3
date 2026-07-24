@@ -30,9 +30,9 @@ CATHeaPS-FatCat provides a holistic breakdown of the impacts of residential retr
 - **Technical Requirements:** Calculation of electrical capacity requirements (in **kVA**) for the local grid.
 - **Retrofit Sensitivity:** All metrics are presented in **"Before"** and **"After"** states based on proposed retrofit measures derived from EPC data.
 
-## Pilot Study: Govanhill, Glasgow
+## Pilot Studies: Govanhill, Glasgow and Drumchapel, Glasgow
 
-To demonstrate the model’s replicability and accuracy, a worked case study for a pilot project area in **Govanhill, Glasgow** is included in the repository. This case study serves as a template for other local authorities to assess their bespoke project areas using the same methodology.
+To demonstrate the model’s replicability and accuracy, worked case studies for two pilot project areas in **Govanhill, Glasgow** and **Drumchapel, Glasgow** are included in the repository. These case studies serve as a template for other local authorities to assess their bespoke project areas using the same methodology.
 
 ## Impact & Just Transition
 
