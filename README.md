@@ -42,13 +42,28 @@ By lowering the barrier to entry for complex thermal modeling, CATHeaPS facilita
 - **Assisting public sector bodies** in aligning with the Scottish Government’s Community and Renewable Energy Scheme (CARES).
 - **Facilitating knowledge exchange** through an entirely open-source, interactive framework.
 
-**Note:** An open-access journal submission detailing the methodology and results of CATHeaPS 3.0 is planned for 2026.
+## Relevant publication and citation of the dataset
+
+For a more detailed analysis of the methodology of CATHeaPS-FatCat and a use case for heating only systems, the following publication in the scientific journal Energy and Buildings can be visited:
+
+Nicola Tait, Orestis Angelidis, Daniel Friedrich, Gioia Falcone, Techno-economic comparison of low-carbon heating solutions and building retrofit using CATHeaPS-FatCat: a case study for two urban neighbourhoods in Glasgow, Energy and Buildings, 2026, 117970, ISSN 0378-7788, https://doi.org/10.1016/j.enbuild.2026.117970.
 
 ## Requirements
+
 CATHeaPS is a **Macro enabled workbook** developed on Microsoft Excel.
 
+## License and Commercial Use
+
+The model provided in this repository is made available for research, educational, and non-commercial purposes unless otherwise stated.
+
+The rights to use this model for commercial or financial gain are reserved exclusively by the authors. No individual or organization may use, distribute, sublicense, or incorporate this model into products or services for financial benefit without prior written permission from the authors.
+
+For commercial licensing inquiries, please contact the authors.
+
 ## Aknowledgements
+
 CATHeaPS-FatCat is developed by Orestis Angelidis and Nicola Tait with the support of Daniel Friedrich and Gioia Falcone. The project was part of a collaboration between Glasgow as a Living Lab Accelerating Novel Transformation (**GALLANT**) and The Centre for Net Zero High Density Buildings (**CeNZ High-DB**). GALLANT is funded by the Natural Environment Research Council as part of the Changing the Environment Programme [grant number NE/W005042/1]. CeNZ High-DB is a Green Economy Centre funded by UKRI [grant number 2-UOG-018].
+
 <div align="center">
   <img width="370" height="280" alt="CATHeaPS " src="https://github.com/user-attachments/assets/f41cc3d1-6042-4325-94de-b1cb9132cb73" />
 </div>
