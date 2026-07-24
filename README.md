@@ -15,9 +15,11 @@ This project enhanced the original CATHeaPS framework to evaluate how retrofitti
 - **Individual Air Source Heat Pumps (ASHP):** Standalone property-level ASHPs with calorifiers for residential properties.
 - **Conventional Gas Boilers:** Used as a baseline for techno-economic comparison.
 
+The model is split into two parts: A. Property data processing and B. CATHeaPS Simulation Model which should be use in turn.
+
 ## Key updates in this version
 
-CATHeaPS-FatCat is a mature evolution of CATHeaPS-Kitten. The main updates in **FatCAT** include:
+CATHeaPS-FatCat is a mature evolution of CATHeaPS-Kitten. The main updates in **FatCat** include:
 - **Retrofit analysis:** a comparison of heat decarbonisation scenarios pre and post building retrofit.
 - **Incorporation of EPC data:** ability to incorporate open access EPC data, improving ease of application across Scotland and the UK.
 - **Non-linear heat networking routing:** improved networking routing for heat network scenarios.
