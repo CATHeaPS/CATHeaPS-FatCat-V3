@@ -15,9 +15,11 @@ This project enhanced the original CATHeaPS framework to evaluate how retrofitti
 - **Individual Air Source Heat Pumps (ASHP):** Standalone property-level ASHPs with calorifiers for residential properties.
 - **Conventional Gas Boilers:** Used as a baseline for techno-economic comparison.
 
+The model is split into two parts: A. Property data processing and B. CATHeaPS Simulation Model which should be use in turn.
+
 ## Key updates in this version
 
-CATHeaPS-FatCat is a mature evolution of CATHeaPS-Kitten. The main updates in **FatCAT** include:
+CATHeaPS-FatCat is a mature evolution of CATHeaPS-Kitten. The main updates in **FatCat** include:
 - **Retrofit analysis:** a comparison of heat decarbonisation scenarios pre and post building retrofit.
 - **Incorporation of EPC data:** ability to incorporate open access EPC data, improving ease of application across Scotland and the UK.
 - **Non-linear heat networking routing:** improved networking routing for heat network scenarios.
@@ -30,9 +32,9 @@ CATHeaPS-FatCat provides a holistic breakdown of the impacts of residential retr
 - **Technical Requirements:** Calculation of electrical capacity requirements (in **kVA**) for the local grid.
 - **Retrofit Sensitivity:** All metrics are presented in **"Before"** and **"After"** states based on proposed retrofit measures derived from EPC data.
 
-## Pilot Study: Govanhill, Glasgow
+## Pilot Studies: Govanhill, Glasgow and Drumchapel, Glasgow
 
-To demonstrate the model’s replicability and accuracy, a worked case study for a pilot project area in **Govanhill, Glasgow** is included in the repository. This case study serves as a template for other local authorities to assess their bespoke project areas using the same methodology.
+To demonstrate the model’s replicability and accuracy, worked case studies for two pilot project areas in **Govanhill, Glasgow** and **Drumchapel, Glasgow** are included in the repository. These case studies serve as a template for other local authorities to assess their bespoke project areas using the same methodology.
 
 ## Impact & Just Transition
 
