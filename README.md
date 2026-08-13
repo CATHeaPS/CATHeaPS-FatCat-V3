@@ -19,7 +19,7 @@ The model is split into two parts: A. Property data processing and B. CATHeaPS S
 
 ## Demonstration videos
 
-To help new users get up and running with **CATHeaPS-FatCat**, we've put together a **5-part video series** introducing the model, walking through how to use it, and taking a deeper dive into some of the workings and assumptions behind it. 
+To help new users get up and running with **CATHeaPS-FatCat**, we've put together a [5-part video series](https://github.com/CATHeaPS/CATHeaPS-FatCat-V3/blob/main/DemoVIDEOS.md) introducing the model, walking through how to use it, and taking a deeper dive into some of the workings and assumptions behind it. 
 Whether you’re completely new CATHeaPS or want to understand what’s happening under the hood, these videos are a great place to start.
 
   1. **Introduction to CATHeaPS** - an overview of the model and what it can be used for
