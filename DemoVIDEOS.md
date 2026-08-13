@@ -13,7 +13,7 @@ Whether you’re completely new CATHeaPS or want to understand what’s happenin
 Grab a coffee, pick an episode, and dive in! ☕
 
 ### 1. Introduction to CATHeaPS
-[![1. Introduction to CATHeaPS](https://github.com/user-attachments/assets/5156806c-ba68-4a8a-b85c-0b52c69ec1bd)](https://gla.sharepoint.com/:v:/s/CeNZ-CATHeaPSforresidentialretrofittingeffects/IQDzIUVvC5xwQbAvbtQVXSTaAb-WwEe2W-VdpPIZM_oxvxA?email=n.tait.1%40research.gla.ac.uk&e=PSL5Ol)
+[![1. Introduction to CATHeaPS](https://github.com/user-attachments/assets/5156806c-ba68-4a8a-b85c-0b52c69ec1bd)](https://gla.sharepoint.com/:v:/s/CeNZ-CATHeaPSforresidentialretrofittingeffects/IQDzIUVvC5xwQbAvbtQVXSTaAb-WwEe2W-VdpPIZM_oxvxA)
 
 ### 2. Data processing and preparation
 [![2. Data processing](https://github.com/user-attachments/assets/c16215f0-3937-4110-8ae3-8bd176f14223)](https://gla.sharepoint.com/sites/CeNZ-CATHeaPSforresidentialretrofittingeffects/_layouts/15/embed.aspx?UniqueId=41d49db5-7266-404c-b64f-467b21f2605e&nav=%7B%22playbackOptions%22%3A%7B%22startTimeInSeconds%22%3A0%7D%7D&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
