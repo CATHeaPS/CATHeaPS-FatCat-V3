@@ -15,7 +15,7 @@ This project enhanced the original CATHeaPS framework to evaluate how retrofitti
 - **Individual Air Source Heat Pumps (ASHP):** Standalone property-level ASHPs with calorifiers for residential properties.
 - **Conventional Gas Boilers:** Used as a baseline for techno-economic comparison.
 
-The model is split into two parts: A. Property data processing and B. CATHeaPS Simulation Model which should be use in turn.
+The model is split into two parts: [A. Property data processing](https://github.com/CATHeaPS/CATHeaPS-FatCat-V3/blob/main/A.%20Data%20preparation.docx) and [B. CATHeaPS Simulation Model](https://github.com/CATHeaPS/CATHeaPS-FatCat-V3/blob/main/B.%20CATHeaPS%20Simulation%20Model%20_FATCAT.xlsm) which should be downloaded and used in turn.
 
 ## Demonstration videos
 
